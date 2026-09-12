@@ -1,0 +1,8 @@
+pymupdf
+pillow
+requests
+mlx-audio
+misaki
+num2words
+spacy
+phonemizer
